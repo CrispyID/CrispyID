@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @CrispyID
-- 👀 I’m interested in learning to code so i can make my own games and translating anything from English to Spanish
-- 🌱 I’m currently learning C# and Java
-- 💞️ I’m looking to collab on literally anything game related
-- 📫 Feel free to send a message and hit me up!
+## Hello! I'm Chris P. (Crispy)
+**Welcome to my profile!** I am currently learning to code.
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=crispyID&theme=light&metric=commits) ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=crispyID&theme=sunset&metric=issues) ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=crispyID&metric=followers)
 
-<!---
-CrispyID/CrispyID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Current learning Stack
+**Java** *(Fullstack)*
