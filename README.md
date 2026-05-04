@@ -10,7 +10,7 @@
 
 
 
-### 🌐 Where to find me  
+## Where to find me  
   
 <div align="left">
   <a href="mailto:tuemail@outlook.com" target="_blank">
