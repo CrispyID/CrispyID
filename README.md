@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">- COMMITed to GIT good<br>- Script kiddie (for now)</p>
+- COMMITed to GIT gud
+- Script kiddie (for now)
 
 ###
 
